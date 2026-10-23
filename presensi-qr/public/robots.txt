@@ -1,3 +1,0 @@
-# Aplikasi presensi internal sekolah: jangan diindeks mesin pencari.
-User-agent: *
-Disallow: /
